@@ -2,6 +2,14 @@
 
 This repository contains both the smart contract code for token registry (in `/contracts`) as well as the node package for using this library (in `/src`).
 
+===================
+
+Morpheus Labs forked this the source code from Open-Attestation as a reference source for `token registry` protocol. Users can explore, modify and test the protocol on Morpheus Labs SEED platform.
+
+Since this is a Apache License, for SEED platform users or any users who need to fork or clone this Open-Attestation protocol need to explicitly fork from this repo.
+
+===================
+
 ## Installing Package
 
 ```sh
